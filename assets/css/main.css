@@ -3975,8 +3975,20 @@ input, select, textarea {
 			}
 		}
 
-		/* .google-map-wrapper {
-			height: 50vh;
+		/* .google-map-wrapper iframe {
+			/* height: 50vh; */
+			/* /* width: 85vw; */
+			/* width: 100%; 
+			width: "100%";
+			height: "450";
+		} */
+
+		/* @media screen and (max-width: 1280px) {
+			.google-map-wrapper iframe {
+				height: "350";
+				width: "100%";
+				box-sizing: ;
+			}
 		} */
 
 		#four {
